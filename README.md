@@ -3,7 +3,7 @@ Servidor JS
 
 Olá, amigos(as)! Tudo bem com vocês? <br>
 
-Criei esse projetinho individual para apresentar no 3 módulo do meu curso, onde era preciso desenvolver
+Criei esse projetinho individual para apresentar no 3º módulo do meu curso, onde era preciso desenvolver
 um servidor json e aplicar os dados referentes ao tema de meu interesse, que no meu caso foi a Academia,
 adicionei funcionários, clientes, serviços e alguns materiais.
 Foi muito interessante visualizar essa aplicação. 
