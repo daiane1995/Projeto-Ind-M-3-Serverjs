@@ -23,4 +23,4 @@ PASSO A PASSO: <br>
 npm install -g json-server // Instalar globalmente. criar um arquivo no dp-son
 
 
-Link render:  https://academia-json-server-o4lf.onrender.com
+Link Render:  https://academia-json-server-o4lf.onrender.com
