@@ -1,6 +1,13 @@
 # serverjs
 Servidor JS
 
+Olá, amigos(as)! Tudo bem com vocês? <br>
+
+Criei esse projetinho individual para apresentar no 3 módulo do meu curso, onde era preciso desenvolver
+um servidor json e aplicar os dados referentes ao tema de meu interesse, que no meu caso foi a Academia,
+adicionei funcionários, clientes, serviços e alguns materiais.
+Foi muito interessante visualizar essa aplicação. 
+
 🧠 REQUISITO DO PROJETO:
 Desenvolver um servidor "json" (json-server). O json-server, é um servidor que fornece dados no formato json.
 <br>
