@@ -12,12 +12,14 @@ O QUE É NECESSÁRIO TER NO PROJETO?
 
 <br>
 
-OBS:
+OBS:<br>
+
 O servidor deverá estar hospedado (deploy) no render.com
 
 <br>
 
-PASSO A PASSO:
+PASSO A PASSO: <br>
+
 npm install -g json-server // Instalar globalmente. criar um arquivo no dp-son
 
 
